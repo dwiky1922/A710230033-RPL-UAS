@@ -1,0 +1,23 @@
+📄 Evaluasi Etika dan Lisensi – UAS RPL
+
+Lisensi proyek asli:
+MIT License
+(Copyright (c) 2017 Mumshad Mannambeth)
+
+Isi lisensi MIT menyatakan bahwa siapa pun dapat menggunakan, memodifikasi, mendistribusikan, dan menyebarluaskan perangkat lunak ini secara bebas, selama:
+1. Hak cipta dan pemberitahuan lisensi tetap disertakan
+2. Tidak ada klaim bahwa perangkat lunak ini bebas dari kesalahan atau jaminan
+
+Evaluasi:
+Selama pengerjaan UAS ini, saya melakukan beberapa perubahan kecil pada proyek, termasuk:
+- Menambahkan route baru
+- Menambahkan diagram UML
+- Melakukan pengujian Black-box
+- Melampirkan dokumentasi usability
+
+Saya **tidak menghapus atau mengubah lisensi asli**, dan semua file tambahan dibuat sebagai kontribusi tambahan.
+
+✅ Dengan demikian, **pengubahan yang saya lakukan kompatibel dengan MIT License**, dan tidak melanggar syarat lisensi yang ada.
+
+Kesimpulan:
+Penggunaan, modifikasi, dan distribusi proyek ini tetap etis dan legal dalam kerangka lisensi MIT.
